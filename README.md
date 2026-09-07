@@ -39,7 +39,7 @@ The dashboard provides insights into:
 
 ## 📷 Dashboard Preview
 
-![Mobile Sales Dashboard](dashboard-preview.png)
+![Mobile Sales Dashboard](./dashboard--preview.png)
 
 ## 📂 Project Files
 
